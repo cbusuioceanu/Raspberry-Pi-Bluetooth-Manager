@@ -1,4 +1,4 @@
-# Raspberry Pi Bluetooth Manager aka RPiBTman
+# Raspberry Pi Bluetooth Manager aka RPiBTman [![Build Status](https://travis-ci.org/cbusuioceanu/Raspberry-Pi-Bluetooth-Manager.svg?branch=master)](https://travis-ci.org/github/cbusuioceanu/Raspberry-Pi-Bluetooth-Manager)
 The first official release of the easiest and fastest script to manage your Raspberry Pi Bluetooth. A state of the art shell script :)
 <p align="center">
 <img src="https://themainframe.network/img/github/bluetooth_raspberry_logo.png" alt="Official Bluetooth & Raspberry logos" />
